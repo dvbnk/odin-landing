@@ -201,6 +201,10 @@ background-color: #1F2937;
     flex: 1;
 }
 
+.btn a {
+    text-decoration: none;
+    color: #ffffff;
+}
 .button-2 {
     background-color: transparent;
     color: #fff;
